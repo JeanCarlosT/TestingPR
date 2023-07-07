@@ -1146,6 +1146,12 @@
                             "variable_id": 54
                         },
                         {
+                            "sigla": "%BS",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas con Sobrepeso",
+                            "variable_id": 53
+                        },
+                        {
                             "sigla": "%BC",
                             "activo": 0,
                             "nombre": "Porcentaje de bandejas correctas",
