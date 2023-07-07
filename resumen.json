@@ -1136,6 +1136,57 @@
                     ]
                 },
                 {
+                    "orden": 2,
+                    "nombre": "Producción",
+                    "variables": [
+                        {
+                            "sigla": "%BB",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas con bajo peso",
+                            "variable_id": 54
+                        },
+                        {
+                            "sigla": "%BS",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas con Sobrepeso",
+                            "variable_id": 53
+                        },
+                        {
+                            "sigla": "%BC",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas correctas",
+                            "variable_id": 368
+                        },
+                        {
+                            "sigla": "Hora ini.",
+                            "activo": 0,
+                            "nombre": "Hora de inicio",
+                            "variable_id": 521
+                        },
+                        {
+                            "sigla": "UlBAN",
+                            "activo": 0,
+                            "nombre": "Última bandeja",
+                            "variable_id": 522
+                        },
+                        {
+                            "sigla": "CAREG",
+                            "activo": 0,
+                            "nombre": "Cajas regaladas",
+                            "variable_id": 523
+                        },
+                        {
+                            "sigla": "BAN/H",
+                            "activo": 0,
+                            "nombre": "Bandejas por hora",
+                            "variable_id": 524
+                        }
+                    ],
+                    "tipo_periodos": [
+                        1
+                    ]
+                },
+                {
                     "orden": 3,
                     "nombre": "Racimos",
                     "variables": [
