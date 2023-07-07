@@ -1,0 +1,1232 @@
+{
+    "widgets": {
+        "tabla_lotes": {
+            "agrupacion_variables": [
+                {
+                    "sigla": "Pro",
+                    "nombre": "Productividad",
+                    "variables": [
+                        {
+                            "sigla": "Pro",
+                            "activo": 1,
+                            "nombre": "Productividad",
+                            "variable_id": 191
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Emb",
+                    "nombre": "Embolse",
+                    "variables": [
+                        {
+                            "sigla": "Emb",
+                            "activo": 0,
+                            "nombre": "Embolse",
+                            "variable_id": 187
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "RCHAA",
+                    "nombre": "RCHAA",
+                    "variables": [
+                        {
+                            "sigla": "RCHAA",
+                            "activo": 0,
+                            "nombre": "Racimos cosechados por hectárea año acumulado",
+                            "variable_id": 325
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "RCHAA Nut",
+                    "nombre": "RCHAA Nut",
+                    "variables": [
+                        {
+                            "sigla": "RCHAA Nut",
+                            "activo": 0,
+                            "nombre": "Racimos cosechados por hectárea año acumulado Nutrientes",
+                            "variable_id": 330
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "PBRAA",
+                    "nombre": "PBRAA",
+                    "variables": [
+                        {
+                            "sigla": "PBRAA",
+                            "activo": 0,
+                            "nombre": "Peso bruto de racimo año acumulado",
+                            "variable_id": 332
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "PBRAA Nut",
+                    "nombre": "PBRAA Nut",
+                    "variables": [
+                        {
+                            "sigla": "PBRAA Nut",
+                            "activo": 0,
+                            "nombre": "Peso bruto de racimo año acumulado Nutrientes",
+                            "variable_id": 334
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                }
+            ]
+        },
+        "tabla_fincas": {
+            "agrupacion_variables": [
+                {
+                    "sigla": "Pro",
+                    "nombre": "Productividad",
+                    "variables": [
+                        {
+                            "sigla": "Pro",
+                            "activo": 1,
+                            "nombre": "Productividad",
+                            "variable_id": 297
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Mer",
+                    "nombre": "Merma",
+                    "variables": [
+                        {
+                            "sigla": "Mer",
+                            "activo": 0,
+                            "nombre": "Merma",
+                            "variable_id": 314
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "RCHAA",
+                    "nombre": "RCHAA",
+                    "variables": [
+                        {
+                            "sigla": "RCHAA",
+                            "activo": 0,
+                            "nombre": "Racimos cosechados por hectárea año acumulado",
+                            "variable_id": 320
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "RCHAA Nut",
+                    "nombre": "RCHAA Nut",
+                    "variables": [
+                        {
+                            "sigla": "RCHAA Nut",
+                            "activo": 0,
+                            "nombre": "Racimos cosechados por hectárea año acumulado Nutrientes",
+                            "variable_id": 329
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "PBRAA",
+                    "nombre": "PBRAA",
+                    "variables": [
+                        {
+                            "sigla": "PBRAA",
+                            "activo": 0,
+                            "nombre": "Peso bruto de racimo año acumulado",
+                            "variable_id": 331
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "PBRAA Nut",
+                    "nombre": "PBRAA Nut",
+                    "variables": [
+                        {
+                            "sigla": "PBRAA Nut",
+                            "activo": 0,
+                            "nombre": "Peso bruto de racimo año acumulado Nutrientes",
+                            "variable_id": 333
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                }
+            ]
+        },
+        "grafica_linea": {
+            "agrupacion_variables": [
+                {
+                    "sigla": "Emp",
+                    "nombre": "Empaque",
+                    "variables": [
+                        {
+                            "sigla": "M",
+                            "activo": 1,
+                            "nombre": "Merma",
+                            "variable_id": 81
+                        },
+                        {
+                            "sigla": "%BS",
+                            "activo": 0,
+                            "nombre": "% Sobrepeso",
+                            "variable_id": 53
+                        },
+                        {
+                            "sigla": "%BB",
+                            "activo": 0,
+                            "nombre": "% Bajopeso",
+                            "variable_id": 54
+                        },
+                        {
+                            "sigla": "CPD",
+                            "activo": 0,
+                            "nombre": "Cajas / persona / día",
+                            "variable_id": 227
+                        },
+                        {
+                            "sigla": "R",
+                            "activo": 0,
+                            "nombre": "Ratio",
+                            "variable_id": 59
+                        },
+                        {
+                            "sigla": "REX",
+                            "activo": 0,
+                            "nombre": "Ratio exportado",
+                            "variable_id": 58
+                        },
+                        {
+                            "sigla": "PP",
+                            "activo": 0,
+                            "nombre": "Peso piso",
+                            "variable_id": 52
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3
+                    ]
+                },
+                {
+                    "sigla": "Emp",
+                    "nombre": "Empaque",
+                    "variables": [
+                        {
+                            "sigla": "M",
+                            "activo": 1,
+                            "nombre": "Merma",
+                            "hourly_view": true,
+                            "variable_id": 81
+                        },
+                        {
+                            "sigla": "%BS",
+                            "activo": 0,
+                            "nombre": "% Sobrepeso",
+                            "hourly_view": true,
+                            "variable_id": 53
+                        },
+                        {
+                            "sigla": "%BB",
+                            "activo": 0,
+                            "nombre": "% Bajopeso",
+                            "hourly_view": true,
+                            "variable_id": 54
+                        },
+                        {
+                            "sigla": "%BC",
+                            "activo": 0,
+                            "nombre": "% Correctas",
+                            "hourly_view": true,
+                            "variable_id": 533
+                        },
+                        {
+                            "sigla": "Ban",
+                            "activo": 0,
+                            "nombre": "Bandejas",
+                            "variable_id": 62
+                        },
+                        {
+                            "sigla": "CPD",
+                            "activo": 0,
+                            "nombre": "Cajas / persona / día",
+                            "variable_id": 227
+                        },
+                        {
+                            "sigla": "R",
+                            "activo": 0,
+                            "nombre": "Ratio",
+                            "variable_id": 59
+                        },
+                        {
+                            "sigla": "REX",
+                            "activo": 0,
+                            "nombre": "Ratio exportado",
+                            "variable_id": 58
+                        },
+                        {
+                            "sigla": "PP",
+                            "activo": 0,
+                            "nombre": "Peso piso",
+                            "variable_id": 52
+                        }
+                    ],
+                    "tipo_periodos": [
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Pro",
+                    "nombre": "Producción",
+                    "variables": [
+                        {
+                            "sigla": "R",
+                            "activo": 0,
+                            "nombre": "Racimos",
+                            "variable_id": 239
+                        },
+                        {
+                            "sigla": "C",
+                            "activo": 0,
+                            "nombre": "Cajas",
+                            "variable_id": 62
+                        },
+                        {
+                            "sigla": "CE",
+                            "activo": 0,
+                            "nombre": "Cajas exportadas",
+                            "variable_id": 241
+                        },
+                        {
+                            "sigla": "CN",
+                            "activo": 0,
+                            "nombre": "Cajas nacionales",
+                            "variable_id": 242
+                        },
+                        {
+                            "sigla": "%RR",
+                            "activo": 0,
+                            "nombre": "Porcentaje de racimos rechazados",
+                            "variable_id": 169
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Per",
+                    "nombre": "Perfil",
+                    "variables": [
+                        {
+                            "sigla": "EDAD",
+                            "activo": 0,
+                            "nombre": "Edad",
+                            "variable_id": 207
+                        },
+                        {
+                            "sigla": "MANOS",
+                            "activo": 0,
+                            "nombre": "Manos",
+                            "variable_id": 208
+                        },
+                        {
+                            "sigla": "DESMA",
+                            "activo": 0,
+                            "nombre": "Desmane",
+                            "variable_id": 209
+                        },
+                        {
+                            "sigla": "GRBAZ",
+                            "activo": 0,
+                            "nombre": "Grado bazal",
+                            "variable_id": 210
+                        },
+                        {
+                            "sigla": "GRAPI",
+                            "activo": 0,
+                            "nombre": "Grado apical",
+                            "variable_id": 211
+                        },
+                        {
+                            "sigla": "LABAZ",
+                            "activo": 0,
+                            "nombre": "Largo bazal",
+                            "variable_id": 212
+                        },
+                        {
+                            "sigla": "LAAPI",
+                            "activo": 0,
+                            "nombre": "Largo apical",
+                            "variable_id": 213
+                        },
+                        {
+                            "sigla": "PNR",
+                            "activo": 0,
+                            "nombre": "Peso neto de racimo",
+                            "variable_id": 214
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "M",
+                    "nombre": "Merma",
+                    "variables": [
+                        {
+                            "sigla": "CM",
+                            "activo": 0,
+                            "nombre": "Cajas merma",
+                            "variable_id": 228
+                        },
+                        {
+                            "sigla": "MA",
+                            "activo": 0,
+                            "nombre": "Merma administrativa",
+                            "variable_id": 594
+                        },
+                        {
+                            "sigla": "MP",
+                            "activo": 0,
+                            "nombre": "Merma proceso",
+                            "variable_id": 563
+                        },
+                        {
+                            "sigla": "CPM",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por manejo",
+                            "variable_id": 230
+                        },
+                        {
+                            "sigla": "CPE",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por enfermedades",
+                            "variable_id": 231
+                        },
+                        {
+                            "sigla": "CPC",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por campo",
+                            "variable_id": 232
+                        },
+                        {
+                            "sigla": "CPA",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por ambiente",
+                            "variable_id": 233
+                        },
+                        {
+                            "sigla": "CPI",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por insectos",
+                            "variable_id": 234
+                        },
+                        {
+                            "sigla": "CPG",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por genéticos",
+                            "variable_id": 235
+                        },
+                        {
+                            "sigla": "CPO",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por otros",
+                            "variable_id": 236
+                        },
+                        {
+                            "sigla": "CPEM",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por empaque",
+                            "variable_id": 237
+                        },
+                        {
+                            "sigla": "CPP",
+                            "activo": 0,
+                            "nombre": "Cajas pérdidas por plagas",
+                            "variable_id": 238
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Lab",
+                    "nombre": "Labores",
+                    "variables": [
+                        {
+                            "sigla": "CE",
+                            "activo": 0,
+                            "nombre": "Calidad de embolse",
+                            "variable_id": 244
+                        },
+                        {
+                            "sigla": "%SE",
+                            "activo": 0,
+                            "nombre": "Porcentaje sin embolse",
+                            "variable_id": 249
+                        },
+                        {
+                            "sigla": "CA",
+                            "activo": 0,
+                            "nombre": "Calidad de amarre",
+                            "variable_id": 245
+                        },
+                        {
+                            "sigla": "%SA",
+                            "activo": 0,
+                            "nombre": "Porcentaje sin amarre",
+                            "variable_id": 250
+                        },
+                        {
+                            "sigla": "CP",
+                            "activo": 0,
+                            "nombre": "Calidad de protección",
+                            "variable_id": 246
+                        },
+                        {
+                            "sigla": "%SP",
+                            "activo": 0,
+                            "nombre": "Porcentaje sin protección",
+                            "variable_id": 251
+                        },
+                        {
+                            "sigla": "CD",
+                            "activo": 0,
+                            "nombre": "Calidad de deshoje",
+                            "variable_id": 247
+                        },
+                        {
+                            "sigla": "%SD",
+                            "activo": 0,
+                            "nombre": "Porcentaje sin deshoje",
+                            "variable_id": 252
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Pro",
+                    "nombre": "Productividad",
+                    "variables": [
+                        {
+                            "sigla": "CEHAA",
+                            "activo": 0,
+                            "nombre": "Cajas exportadas por hectárea año acumulado",
+                            "variable_id": 178
+                        },
+                        {
+                            "sigla": "CHAA",
+                            "activo": 0,
+                            "nombre": "Cajas por hectárea año acumulado",
+                            "variable_id": 223
+                        },
+                        {
+                            "sigla": "CPHAA",
+                            "activo": 0,
+                            "nombre": "Cajas potenciales por hectárea año acumulado",
+                            "variable_id": 224
+                        },
+                        {
+                            "sigla": "MAA",
+                            "activo": 0,
+                            "nombre": "Merma acumulada año",
+                            "variable_id": 225
+                        },
+                        {
+                            "sigla": "PPRAA",
+                            "activo": 0,
+                            "nombre": "Peso promedio de racimo por año acumulado",
+                            "variable_id": 196
+                        },
+                        {
+                            "sigla": "RCHAA",
+                            "activo": 0,
+                            "nombre": "Racimos cosechados por hectárea por año acumulado",
+                            "variable_id": 181
+                        },
+                        {
+                            "sigla": "REHAA",
+                            "activo": 0,
+                            "nombre": "Racimos embolsados por hectárea por año acumulado",
+                            "variable_id": 226
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3
+                    ]
+                },
+                {
+                    "sigla": "Cli",
+                    "nombre": "Clima",
+                    "variables": [
+                        {
+                            "sigla": "P",
+                            "activo": 0,
+                            "nombre": "Precipitación (mm)",
+                            "variable_id": 548,
+                            "tipo_grafica": "bar"
+                        },
+                        {
+                            "sigla": "GD",
+                            "activo": 0,
+                            "nombre": "Grados Día",
+                            "variable_id": 343
+                        },
+                        {
+                            "sigla": "TEMPMAX",
+                            "activo": 0,
+                            "nombre": "Temperatura Máxima",
+                            "variable_id": 342
+                        },
+                        {
+                            "sigla": "HR",
+                            "activo": 0,
+                            "nombre": "Humedad Relativa",
+                            "variable_id": 2
+                        },
+                        {
+                            "sigla": "PAR",
+                            "activo": 0,
+                            "nombre": "PAR (DLI)",
+                            "variable_id": 345
+                        },
+                        {
+                            "sigla": "TSF",
+                            "activo": 0,
+                            "nombre": "Tasa fotosintética",
+                            "variable_id": 377
+                        },
+                        {
+                            "sigla": "TEMP",
+                            "activo": 0,
+                            "nombre": "Temperatura",
+                            "variable_id": 3
+                        },
+                        {
+                            "sigla": "VELV",
+                            "activo": 0,
+                            "nombre": "Velocidad del viento",
+                            "variable_id": 12
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Mues",
+                    "nombre": "Muestreo",
+                    "variables": [
+                        {
+                            "sigla": "HEMI",
+                            "activo": 0,
+                            "nombre": "Hojas emitidas",
+                            "variable_id": 429
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3
+                    ]
+                }
+            ]
+        },
+        "grafica_torta": {
+            "agrupacion_variables": [
+                {
+                    "nombre": "Defectos",
+                    "variables": [
+                        {
+                            "sigla": "Def",
+                            "activo": 1,
+                            "nombre": "Defectos",
+                            "variable_id": 298
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "nombre": "Tipo defectos",
+                    "variables": [
+                        {
+                            "sigla": "T. Def",
+                            "activo": 0,
+                            "nombre": "Tipo de defectos",
+                            "variable_id": 299
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "nombre": "Rechazos",
+                    "variables": [
+                        {
+                            "sigla": "Rechazos",
+                            "activo": 0,
+                            "nombre": "Rechazos",
+                            "variable_id": 395
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "nombre": "Repiques",
+                    "variables": [
+                        {
+                            "sigla": "Repiques",
+                            "activo": 0,
+                            "nombre": "Repiques",
+                            "variable_id": 569
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                }
+            ]
+        },
+        "tabla_racimos": {
+            "agrupacion_variables": [
+                {
+                    "sigla": "c",
+                    "nombre": "Cosecha",
+                    "variables": [
+                        {
+                            "sigla": "c",
+                            "activo": 0,
+                            "nombre": "Cosecha",
+                            "variable_id": 550,
+                            "disableDefaultColorRanking": 1
+                        }
+                    ]
+                },
+                {
+                    "sigla": "u",
+                    "nombre": "'Ultimos",
+                    "variables": [
+                        {
+                            "sigla": "u",
+                            "activo": 1,
+                            "nombre": "Últimos",
+                            "variable_id": 551,
+                            "disableDefaultColorRanking": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "tabla_bandejas": {
+            "agrupacion_variables": [
+                {
+                    "sigla": "u",
+                    "nombre": "Últimas",
+                    "variables": [
+                        {
+                            "sigla": "u",
+                            "activo": 1,
+                            "nombre": "Últimas",
+                            "variable_id": 546,
+                            "filterableColumns": "['Embarque']",
+                            "disableDefaultColorRanking": 1
+                        }
+                    ]
+                },
+                {
+                    "sigla": "Sup",
+                    "nombre": "´Supervisión",
+                    "variables": [
+                        {
+                            "sigla": "Sup",
+                            "activo": 0,
+                            "nombre": "Supervisión",
+                            "variable_id": 547,
+                            "disableDefaultColorRanking": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "tabla_personas": {
+            "agrupacion_variables": [
+                {
+                    "sigla": "Puy",
+                    "nombre": "Puyeros",
+                    "variables": [
+                        {
+                            "sigla": "Puy",
+                            "activo": 1,
+                            "nombre": "Puyeros",
+                            "variable_id": 204
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Def",
+                    "nombre": "Defectos",
+                    "variables": [
+                        {
+                            "sigla": "Def",
+                            "activo": 0,
+                            "nombre": "Defectos",
+                            "variable_id": 205
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Ban",
+                    "nombre": "Bandejas",
+                    "variables": [
+                        {
+                            "sigla": "Ban",
+                            "activo": 0,
+                            "nombre": "Bandejas",
+                            "variable_id": 190
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Bar",
+                    "nombre": "Barcadilla",
+                    "variables": [
+                        {
+                            "sigla": "Bar",
+                            "activo": 0,
+                            "nombre": "Barcadilla",
+                            "variable_id": 189
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Emb",
+                    "nombre": "Embolse",
+                    "variables": [
+                        {
+                            "sigla": "Emb",
+                            "activo": 0,
+                            "nombre": "Embolse",
+                            "variable_id": 188
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Cor",
+                    "nombre": "Corte",
+                    "variables": [
+                        {
+                            "sigla": "Cor",
+                            "activo": 0,
+                            "nombre": "Corte",
+                            "variable_id": 532
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "sigla": "Sup",
+                    "nombre": "Supervisión",
+                    "variables": [
+                        {
+                            "sigla": "Sup",
+                            "activo": 0,
+                            "nombre": "Supervisión",
+                            "variable_id": 243
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3,
+                        1
+                    ]
+                }
+            ]
+        },
+        "tabla_indicadores": {
+            "agrupacion_variables": [
+                {
+                    "orden": 1,
+                    "nombre": "Empaque",
+                    "variables": [
+                        {
+                            "sigla": "%M",
+                            "activo": 0,
+                            "nombre": "Merma",
+                            "variable_id": 81
+                        },
+                        {
+                            "sigla": "MA",
+                            "activo": 0,
+                            "nombre": "Merma administrativa",
+                            "variable_id": 594
+                        },
+                        {
+                            "sigla": "MP",
+                            "activo": 0,
+                            "nombre": "Merma proceso",
+                            "variable_id": 563
+                        },
+                        {
+                            "sigla": "%BB",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas con bajo peso",
+                            "variable_id": 54
+                        },
+                        {
+                            "sigla": "%BS",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas con Sobrepeso",
+                            "variable_id": 53
+                        },
+                        {
+                            "sigla": "%BC",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas correctas",
+                            "variable_id": 368
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3
+                    ]
+                },
+                {
+                    "orden": 2,
+                    "nombre": "Producción",
+                    "variables": [
+                        {
+                            "sigla": "C",
+                            "activo": 0,
+                            "nombre": "Cajas",
+                            "variable_id": 62
+                        },
+                        {
+                            "sigla": "CE",
+                            "activo": 0,
+                            "nombre": "Cajas exportadas",
+                            "variable_id": 63
+                        },
+                        {
+                            "sigla": "CN",
+                            "activo": 0,
+                            "nombre": "Cajas nacionales",
+                            "variable_id": 64
+                        },
+                        {
+                            "sigla": "RE",
+                            "activo": 0,
+                            "nombre": "Ratio empacado",
+                            "variable_id": 59
+                        },
+                        {
+                            "sigla": "REX",
+                            "activo": 0,
+                            "nombre": "Ratio exportado",
+                            "variable_id": 58
+                        },
+                        {
+                            "sigla": "RP",
+                            "activo": 0,
+                            "nombre": "Ratio premium",
+                            "variable_id": 184
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3
+                    ]
+                },
+                {
+                    "orden": 3,
+                    "nombre": "Productividad",
+                    "variables": [
+                        {
+                            "sigla": "PNR",
+                            "activo": 0,
+                            "nombre": "Peso neto de racimo",
+                            "variable_id": 214
+                        },
+                        {
+                            "sigla": "EP",
+                            "activo": 0,
+                            "nombre": "Edad promedio",
+                            "variable_id": 207
+                        },
+                        {
+                            "sigla": "CEHAA",
+                            "activo": 0,
+                            "nombre": "Cajas exportadas por hectárea año acumulado",
+                            "variable_id": 371
+                        },
+                        {
+                            "sigla": "RCHAA",
+                            "activo": 0,
+                            "nombre": "Racimos cosechados por hectárea año acumulado",
+                            "variable_id": 370
+                        },
+                        {
+                            "sigla": "PNRAA",
+                            "activo": 0,
+                            "nombre": "Peso neto de racimo año acumulado",
+                            "variable_id": 369
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3
+                    ]
+                },
+                {
+                    "orden": 4,
+                    "nombre": "Clima",
+                    "variables": [
+                        {
+                            "sigla": "H2O",
+                            "activo": 0,
+                            "nombre": "Precipitación",
+                            "variable_id": 8
+                        },
+                        {
+                            "sigla": "GD",
+                            "activo": 0,
+                            "nombre": "Grados Día",
+                            "variable_id": 343
+                        },
+                        {
+                            "sigla": "TEMPMAX",
+                            "activo": 0,
+                            "nombre": "Temperatura Máxima",
+                            "variable_id": 342
+                        },
+                        {
+                            "sigla": "HR",
+                            "activo": 0,
+                            "nombre": "Humedad Relativa",
+                            "variable_id": 2
+                        },
+                        {
+                            "sigla": "TF",
+                            "activo": 0,
+                            "nombre": "Tasa fotosintética",
+                            "variable_id": 378
+                        }
+                    ],
+                    "tipo_periodos": [
+                        3
+                    ]
+                },
+                {
+                    "orden": 1,
+                    "nombre": "General",
+                    "variables": [
+                        {
+                            "sigla": "%M",
+                            "activo": 0,
+                            "nombre": "Merma",
+                            "variable_id": 81
+                        },
+                        {
+                            "sigla": "REX",
+                            "activo": 0,
+                            "nombre": "Ratio exportado",
+                            "variable_id": 58
+                        },
+                        {
+                            "sigla": "C",
+                            "activo": 0,
+                            "nombre": "Cajas",
+                            "variable_id": 62
+                        },
+                        {
+                            "sigla": "CE",
+                            "activo": 0,
+                            "nombre": "Cajas exportadas",
+                            "variable_id": 63
+                        },
+                        {
+                            "sigla": "PNR",
+                            "activo": 0,
+                            "nombre": "Peso neto de racimo",
+                            "variable_id": 214
+                        }
+                    ],
+                    "tipo_periodos": [
+                        1
+                    ]
+                },
+                {
+                    "orden": 2,
+                    "nombre": "Producción",
+                    "variables": [
+                        {
+                            "sigla": "%BB",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas con bajo peso",
+                            "variable_id": 54
+                        },
+                        {
+                            "sigla": "%BS",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas con Sobrepeso",
+                            "variable_id": 53
+                        },
+                        {
+                            "sigla": "%BC",
+                            "activo": 0,
+                            "nombre": "Porcentaje de bandejas correctas",
+                            "variable_id": 368
+                        },
+                        {
+                            "sigla": "Hora ini.",
+                            "activo": 0,
+                            "nombre": "Hora de inicio",
+                            "variable_id": 521
+                        },
+                        {
+                            "sigla": "UlBAN",
+                            "activo": 0,
+                            "nombre": "Última bandeja",
+                            "variable_id": 522
+                        },
+                        {
+                            "sigla": "CAREG",
+                            "activo": 0,
+                            "nombre": "Cajas regaladas",
+                            "variable_id": 523
+                        },
+                        {
+                            "sigla": "BAN/H",
+                            "activo": 0,
+                            "nombre": "Bandejas por hora",
+                            "variable_id": 524
+                        }
+                    ],
+                    "tipo_periodos": [
+                        1
+                    ]
+                },
+                {
+                    "orden": 3,
+                    "nombre": "Racimos",
+                    "variables": [
+                        {
+                            "sigla": "RACPE",
+                            "activo": 0,
+                            "nombre": "Racimos pesados",
+                            "variable_id": 239
+                        },
+                        {
+                            "sigla": "Hora ini.",
+                            "activo": 0,
+                            "nombre": "Hora de inicio",
+                            "variable_id": 525
+                        },
+                        {
+                            "sigla": "UlTVIA",
+                            "activo": 0,
+                            "nombre": "Último viaje",
+                            "variable_id": 526
+                        },
+                        {
+                            "sigla": "RAC/H",
+                            "activo": 0,
+                            "nombre": "Racimos por hora",
+                            "variable_id": 527
+                        },
+                        {
+                            "sigla": "RACREC",
+                            "activo": 0,
+                            "nombre": "Racimos rechazados",
+                            "variable_id": 61
+                        }
+                    ],
+                    "tipo_periodos": [
+                        1
+                    ]
+                }
+            ]
+        }
+    },
+    "tipo_periodo_id": 3
+}
